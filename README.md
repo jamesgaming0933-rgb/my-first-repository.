@@ -1,1 +1,3 @@
-# my-first-repository.
+HELLO MY NAME IS KYAW
+HIHI
+ LETSS GOOOOOOOO
